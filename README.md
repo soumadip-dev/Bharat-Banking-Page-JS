@@ -23,6 +23,6 @@ The **Bharat Banking App** is a user-friendly web application designed to help u
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your web browser.
 3. Use the following credentials to log in:
-   - **Username**: `rahul` (for account 1)
+   - **Username**: `rs` (for account 1)
    - **Pin**: `1111`
 4. Navigate through the app to explore features such as viewing transactions, checking account balances, and transferring funds.
